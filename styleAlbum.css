@@ -1,0 +1,23 @@
+#main {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#titre h1 {
+    border-bottom: 2px solid;
+    padding-bottom: 10px;
+}
+
+#navigation a {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#pictures {
+    margin: 20px auto;
+}
+
+#pictures img {
+    margin-bottom: 20px;
+}
